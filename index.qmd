@@ -1,27 +1,37 @@
 ---
 title: "Securing Edge AI Workshop"
-subtitle: "[One-line description, e.g. 'Federated Learning on Constrained Devices']"
+subtitle: "CYBERSECURITY WORKSHOP FOR RESOURCE-CONSTRAINED DEVICES"
 ---
 
 ::: {.callout-note}
 ## 📅 Date & Location
-**[Month Day, 2026]** · [Venue / University, City]
+**[October 21, 2026]** · [Ulster University, Belfast]
 :::
 
-## About
+## About the Workshop
+Connected devices are embedded throughout our homes, cars, factories, and critical infrastructure, yet device security has often taken a backseat to other considerations, such as power management and latency. As the prevalence of edge devices increases, security challenges, such as resource efficient cryptography, securing over-the-air updates, and defending against side-channel attacks, need to be addressed. This workshop aims to inform participants about the risks to edge devices and provide the tools to defend against them.
 
-[2-3 sentences on what the workshop is about, who it's for.]
+### Workshop Topics
+ - **How AI is changing the Cybersecurity Landscape:** Are the new tools introducing new threats?
+ - **Threat modelling for constrained device:** Identify and mitigate security risks at the edge.
+ - **Lightweight cryptographic protocols:** Secure communications and authentication with minimal overhead.
+ - **Secure firmware & OTA updates:** Protect device integrity with secure boot and update strategies.
+ - **Edge network intrusion detection:** Detect anomalies and attacks in resource-constrained networks.
+
 
 ::: {.callout-tip}
 ## Registration
-[Registration is open / opens on X date.] [Link to form if you have one.]
+Registration is now open — spots are limited.
+
+[<i class="bi bi-pencil-square"></i> Register Now](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=h5QLb6hPqEKutL8uLCLU6DGcZUd1pZJHi-NhJoxO4NZUQThYSklZQlJCMlpYRDFGSzE5MlpRVU01Ry4u){.btn .btn-primary role="button" target="_blank" rel="noopener noreferrer"}
 :::
+
 
 ::: {.callout-important}
 ## Key dates
-- Abstract submission: **[date]**
+- Abstract submission: **Ongoing**
 - Notification of acceptance: **[date]**
-- Workshop day: **[date]**
+- Workshop day: **October 21, 2026**
 :::
 
 ## Program highlights

@@ -4,7 +4,8 @@ project:
 website:
   title: "Securing Edge AI 2026"
   navbar:
-    background: primary
+    background: "#4174a4"
+    foreground: "#e6ebf0"
     left:
       - href: index.qmd
         text: Home
@@ -14,6 +15,8 @@ website:
         text: Speakers
       - href: venue.qmd
         text: Venue
+      - href: organisers.qmd
+        text: Organisers  
     right:
       - icon: github
         href: https://github.com/[your-org]/[workshop-repo]

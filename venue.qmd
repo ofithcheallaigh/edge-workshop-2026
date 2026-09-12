@@ -1,0 +1,15 @@
+---
+title: "Workshop Venue"
+---
+
+## Getting there
+
+Address:
+ - Ulster University (BC Building)
+ - York St, Belfast BT15 1ED
+
+## Map
+
+::: {.map-container}
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed?bbox=-5.9311285614967355%2C54.60381578747937%2C-5.927588045597077%2C54.605145653841184&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/54.604481/-5.929358">View Larger Map</a></small>
+:::

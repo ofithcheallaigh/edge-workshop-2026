@@ -1,0 +1,37 @@
+---
+title: "Organisers"
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/xx.png)
+:::
+
+::: {.g-col-8}
+### [Dr Ian Cleland]
+
+[Role/affiliation]
+
+[Bio text.]
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/me.png)
+:::
+
+::: {.g-col-8}
+### Seán Ó Fithcheallaigh
+
+PhD Researcher, Ulster University.
+
+Seán is a PhD Researcher within the Pervasive Computing Research Centre (PCRC), specialising in Federated Learning (FL) with a focus on developing trustworthy FL frameworks for sensor networks and IoT devices. He is also a researcher with the BT Ireland Innovation Centre (BTIIC), where he works on IoT Autonomics. With over a decade of experience in electronics and software engineering, including developing next-generation application-specific IoT sensors, he brings first-hand understanding of the practical constraints and opportunities that shape AI deployment at the edge.
+:::
+
+:::
+
+
