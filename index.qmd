@@ -1,0 +1,33 @@
+---
+title: "Securing Edge AI Workshop"
+subtitle: "[One-line description, e.g. 'Federated Learning on Constrained Devices']"
+---
+
+::: {.callout-note}
+## 📅 Date & Location
+**[Month Day, 2026]** · [Venue / University, City]
+:::
+
+## About
+
+[2-3 sentences on what the workshop is about, who it's for.]
+
+::: {.callout-tip}
+## Registration
+[Registration is open / opens on X date.] [Link to form if you have one.]
+:::
+
+::: {.callout-important}
+## Key dates
+- Abstract submission: **[date]**
+- Notification of acceptance: **[date]**
+- Workshop day: **[date]**
+:::
+
+## Program highlights
+
+{{< bi calendar-event >}} Keynote talks from [X]
+
+{{< bi laptop >}} Hands-on session on [topic]
+
+{{< bi people >}} Panel discussion

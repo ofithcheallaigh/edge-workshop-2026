@@ -1,0 +1,13 @@
+---
+title: "Schedule"
+---
+
+| Time  | Session                          | Speaker        |
+|-------|-----------------------------------|----------------|
+| 09:00 | Registration & coffee             |                |
+| 09:30 | Welcome & opening remarks         | [Name]         |
+| 10:00 | Keynote: [Title]                  | [Name]         |
+| 11:00 | Hands-on session                  | [Name]         |
+| 12:30 | Lunch                             |                |
+| 13:30 | Panel discussion                  | [Names]        |
+| 15:00 | Closing remarks                   | [Name]         |
