@@ -7,6 +7,13 @@
     "text": "About this site"
   },
   {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Time\nSession\nSpeaker\n\n\n\n\n09:00\nRegistration & coffee\n\n\n\n09:30\nWelcome & opening remarks\n[Name]\n\n\n10:00\nKeynote: [Title]\n[Name]\n\n\n11:00\nHands-on session\n[Name]\n\n\n12:30\nLunch\n\n\n\n13:30\nPanel discussion\n[Names]\n\n\n15:00\nClosing remarks\n[Name]"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Securing Edge AI Workshop",
@@ -14,11 +21,11 @@
     "text": "Note📅 Date & Location\n\n\n\n[October 21, 2026] · [Ulster University, Belfast]"
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
+    "objectID": "index.html#about-the-workshop",
+    "href": "index.html#about-the-workshop",
     "title": "Securing Edge AI Workshop",
-    "section": "About",
-    "text": "About\nConnected devices are embedded throughout our homes, cars, factories, and critical infrastructure, yet device security has often taken a backseat to other considerations, such as power management and latency. As the prevalence of edge devices increases, security challenges, such as resource efficient cryptography, securing over-the-air updates, and defending against side-channel attacks, need to be addressed. This workshop aims to inform participants about the risks to edge devices and provide the tools to defend against them.\n\nWorkshop Topics\n\nHow AI is changing the Cybersecurity Landscape: Are the new tools introducing new threats?\nThreat modelling for constrained device: Identify and mitigate security risks at the edge.\nLightweight cryptographic protocols: Secure communications and authentication with minimal overhead.\nSecure firmware & OTA updates: Protect device integrity with secure boot and update strategies.\nEdge network intrusion detection: Detect anomalies and attacks in resource-constrained networks.\n\n\n\n\n\n\n\nTipRegistration\n\n\n\nRegistration is now open — spots are limited.\n Register Now\n\n\n\n\n\n\n\n\nImportantKey dates\n\n\n\n\nAbstract submission: [date]\nNotification of acceptance: [date]\nWorkshop day: [date]"
+    "section": "About the Workshop",
+    "text": "About the Workshop\nConnected devices are embedded throughout our homes, cars, factories, and critical infrastructure, yet device security has often taken a backseat to other considerations, such as power management and latency. As the prevalence of edge devices increases, security challenges, such as resource efficient cryptography, securing over-the-air updates, and defending against side-channel attacks, need to be addressed. This workshop aims to inform participants about the risks to edge devices and provide the tools to defend against them.\n\nWorkshop Topics\n\nHow AI is changing the Cybersecurity Landscape: Are the new tools introducing new threats?\nThreat modelling for constrained device: Identify and mitigate security risks at the edge.\nLightweight cryptographic protocols: Secure communications and authentication with minimal overhead.\nSecure firmware & OTA updates: Protect device integrity with secure boot and update strategies.\nEdge network intrusion detection: Detect anomalies and attacks in resource-constrained networks.\n\n\n\n\n\n\n\nTipRegistration\n\n\n\nRegistration is now open — spots are limited.\n Register Now\n\n\n\n\n\n\n\n\nImportantKey dates\n\n\n\n\nAbstract submission: Ongoing\nNotification of acceptance: [date]\nWorkshop day: October 21, 2026"
   },
   {
     "objectID": "index.html#program-highlights",
@@ -28,10 +35,24 @@
     "text": "Program highlights\n{{&lt; bi calendar-event &gt;}} Keynote talks from [X]\n{{&lt; bi laptop &gt;}} Hands-on session on [topic]\n{{&lt; bi people &gt;}} Panel discussion"
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "venue.html",
+    "href": "venue.html",
+    "title": "Workshop Venue",
     "section": "",
-    "text": "Time\nSession\nSpeaker\n\n\n\n\n09:00\nRegistration & coffee\n\n\n\n09:30\nWelcome & opening remarks\n[Name]\n\n\n10:00\nKeynote: [Title]\n[Name]\n\n\n11:00\nHands-on session\n[Name]\n\n\n12:30\nLunch\n\n\n\n13:30\nPanel discussion\n[Names]\n\n\n15:00\nClosing remarks\n[Name]"
+    "text": "[Content]"
+  },
+  {
+    "objectID": "venue.html#getting-there",
+    "href": "venue.html#getting-there",
+    "title": "Workshop Venue",
+    "section": "",
+    "text": "[Content]"
+  },
+  {
+    "objectID": "venue.html#map",
+    "href": "venue.html#map",
+    "title": "Workshop Venue",
+    "section": "Map",
+    "text": "Map"
   }
 ]
