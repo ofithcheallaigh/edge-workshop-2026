@@ -1,1 +1,1 @@
-Sitemap: https://ofithcheallaigh.github.io/workshop-2026/sitemap.xml
+Sitemap: https://ofithcheallaigh.github.io/edge-workshop-2026/sitemap.xml
