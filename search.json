@@ -7,13 +7,6 @@
     "text": "About this site"
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Time\nSession\nSpeaker\n\n\n\n\n09:00\nRegistration & coffee\n\n\n\n09:30\nWelcome & opening remarks\n[Name]\n\n\n10:00\nKeynote: [Title]\n[Name]\n\n\n11:00\nHands-on session\n[Name]\n\n\n12:30\nLunch\n\n\n\n13:30\nPanel discussion\n[Names]\n\n\n15:00\nClosing remarks\n[Name]"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Securing Edge AI Workshop",
@@ -33,6 +26,13 @@
     "title": "Securing Edge AI Workshop",
     "section": "Program highlights",
     "text": "Program highlights\n{{&lt; bi calendar-event &gt;}} Keynote talks from [X]\n{{&lt; bi laptop &gt;}} Hands-on session on [topic]\n{{&lt; bi people &gt;}} Panel discussion"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Time\nSession\nSpeaker\n\n\n\n\n09:00\nRegistration & coffee\n\n\n\n09:30\nWelcome & opening remarks\n[Name]\n\n\n10:00\nKeynote: [Title]\n[Name]\n\n\n11:00\nHands-on session\n[Name]\n\n\n12:30\nLunch\n\n\n\n13:30\nPanel discussion\n[Names]\n\n\n15:00\nClosing remarks\n[Name]"
   },
   {
     "objectID": "venue.html",
