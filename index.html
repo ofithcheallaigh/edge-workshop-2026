@@ -163,7 +163,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p><strong>[Month Day, 2026]</strong> · [Venue / University, City]</p>
+<p><strong>[October 21, 2026]</strong> · [Ulster University, Belfast]</p>
 </div>
 </div>
 <section id="about" class="level2">
@@ -179,7 +179,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>[Registration is open / opens on X date.] [Link to form if you have one.]</p>
+<p>Registration is now open — spots are limited.</p>
+<p><a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=h5QLb6hPqEKutL8uLCLU6DGcZUd1pZJHi-NhJoxO4NZUQThYSklZQlJCMlpYRDFGSzE5MlpRVU01Ry4u" class="btn btn-primary" role="button">{{&lt; bi pencil-square &gt;}} Register Now</a></p>
 </div>
 </div>
 <div class="callout callout-style-default callout-important callout-titled">
@@ -283,7 +284,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/ofithcheallaigh\.github\.io\/workshop-2026\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
