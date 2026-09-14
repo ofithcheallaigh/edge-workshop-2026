@@ -20,6 +20,7 @@
    in the two-column grid layout on organisers.qmd */
 .grid {
   align-items: start;
+  margin-bottom: 2.5rem;
 }
 
 /* Removes extra top margin on organiser bio headings
